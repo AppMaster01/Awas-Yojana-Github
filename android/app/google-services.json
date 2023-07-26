@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010776487380",
+    "project_id": "awas-yojana-99fdf",
+    "storage_bucket": "awas-yojana-99fdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010776487380:android:f12f463fa5c001d6b95241",
+        "android_client_info": {
+          "package_name": "com.example.awas_yojana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010776487380-1bo5jejjj52lvbr7m4mlqophjmrsmbjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHMsWEvbbQ_pqTSZJR6W-j9t4B2a5vSE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010776487380-1bo5jejjj52lvbr7m4mlqophjmrsmbjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
